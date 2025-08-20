@@ -1,0 +1,268 @@
+Testing with threshold=1.5, lag=1
+REFINED MASS-OU HYPOTHESIS TEST (THRESHOLD + LAG)
+======================================================================
+Threshold (z-score): 1.5
+Lag: 1 period(s)
+======================================================================
+
+Testing NZDJPY vs AUDJPY...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 249.6493
+  Theta B: 273.0913
+
+Testing AUDJPY vs NZDJPY...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 273.0913
+  Theta B: 249.6493
+
+Testing CHFJPY vs CADJPY...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 830.0745
+  Theta B: 792.7092
+
+Testing CADJPY vs CHFJPY...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 792.7092
+  Theta B: 830.0745
+
+Testing GBPUSD vs AUDUSD...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 929.7764
+  Theta B: 816.6930
+
+Testing NZDUSD vs EURUSD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 874.9150
+  Theta B: 882.8056
+
+Testing AUDNZD vs EURNZD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 1304.7365
+  Theta B: 1543.8038
+
+Testing NZDCAD vs USDCAD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 2259.9377
+  Theta B: 2294.1835
+
+======================================================================
+EINDRESULTAAT:
+======================================================================
+OVERALL ANALYSE:
+  Paren met ondersteuning: 0/8 (0.0%)
+  Overall p-waarde: 1.0000
+
+EVENT-BASED ANALYSE:
+  Ondersteunde events: 455645/1506422 (30.2%)
+  Event-based p-waarde: 1.0000
+
+*** CONCLUSIES: ***
+OVERALL: ACCEPTEER H0 - VERWERP H1
+EVENTS: ACCEPTEER H0 - VERWERP H1
+======================================================================
+
+DETAIL OVERZICHT:
+H0 NZDJPY-AUDJPY: Events=185729, Success_rate=38.5%, Lower_mass=A, Higher_theta=B
+H0 AUDJPY-NZDJPY: Events=185729, Success_rate=38.5%, Lower_mass=B, Higher_theta=A
+H0 CHFJPY-CADJPY: Events=192962, Success_rate=36.0%, Lower_mass=B, Higher_theta=A
+H0 CADJPY-CHFJPY: Events=192962, Success_rate=36.0%, Lower_mass=A, Higher_theta=B
+H0 GBPUSD-AUDUSD: Events=189684, Success_rate=26.1%, Lower_mass=B, Higher_theta=A
+H0 NZDUSD-EURUSD: Events=187661, Success_rate=37.0%, Lower_mass=A, Higher_theta=B
+H0 AUDNZD-EURNZD: Events=180907, Success_rate=11.3%, Lower_mass=A, Higher_theta=B
+H0 NZDCAD-USDCAD: Events=190788, Success_rate=18.1%, Lower_mass=A, Higher_theta=B
+
+======================================================================
+Testing with threshold=2.0, lag=4
+REFINED MASS-OU HYPOTHESIS TEST (THRESHOLD + LAG)
+======================================================================
+Threshold (z-score): 2.0
+Lag: 4 period(s)
+======================================================================
+
+Testing NZDJPY vs AUDJPY...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 350.1587
+  Theta B: 367.0592
+
+Testing AUDJPY vs NZDJPY...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 367.0592
+  Theta B: 350.1587
+
+Testing CHFJPY vs CADJPY...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 1013.6568
+  Theta B: 988.1342
+
+Testing CADJPY vs CHFJPY...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 988.1342
+  Theta B: 1013.6568
+
+Testing GBPUSD vs AUDUSD...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 1111.6569
+  Theta B: 1024.0837
+
+Testing NZDUSD vs EURUSD...
+  Lagere massa: A
+  Hogere theta: A
+  Overall hypothese: True
+  Theta A: 1075.7594
+  Theta B: 1055.2683
+
+Testing AUDNZD vs EURNZD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 1581.4238
+  Theta B: 1802.6605
+
+Testing NZDCAD vs USDCAD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 2570.3283
+  Theta B: 2589.9317
+
+======================================================================
+EINDRESULTAAT:
+======================================================================
+OVERALL ANALYSE:
+  Paren met ondersteuning: 1/8 (12.5%)
+  Overall p-waarde: 0.9961
+
+EVENT-BASED ANALYSE:
+  Ondersteunde events: 181207/573519 (31.6%)
+  Event-based p-waarde: 1.0000
+
+*** CONCLUSIES: ***
+OVERALL: ACCEPTEER H0 - VERWERP H1
+EVENTS: ACCEPTEER H0 - VERWERP H1
+======================================================================
+
+DETAIL OVERZICHT:
+H0 NZDJPY-AUDJPY: Events=69599, Success_rate=39.8%, Lower_mass=A, Higher_theta=B
+H0 AUDJPY-NZDJPY: Events=69599, Success_rate=39.8%, Lower_mass=B, Higher_theta=A
+H0 CHFJPY-CADJPY: Events=74147, Success_rate=37.8%, Lower_mass=B, Higher_theta=A
+H0 CADJPY-CHFJPY: Events=74147, Success_rate=37.8%, Lower_mass=A, Higher_theta=B
+H0 GBPUSD-AUDUSD: Events=72896, Success_rate=29.6%, Lower_mass=B, Higher_theta=A
+H1 NZDUSD-EURUSD: Events=70977, Success_rate=39.8%, Lower_mass=A, Higher_theta=A
+H0 AUDNZD-EURNZD: Events=69515, Success_rate=11.5%, Lower_mass=A, Higher_theta=B
+H0 NZDCAD-USDCAD: Events=72639, Success_rate=16.6%, Lower_mass=A, Higher_theta=B
+
+======================================================================
+Testing with threshold=2.5, lag=10
+REFINED MASS-OU HYPOTHESIS TEST (THRESHOLD + LAG)
+======================================================================
+Threshold (z-score): 2.5
+Lag: 10 period(s)
+======================================================================
+
+Testing NZDJPY vs AUDJPY...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 477.0050
+  Theta B: 478.3977
+
+Testing AUDJPY vs NZDJPY...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 478.3977
+  Theta B: 477.0050
+
+Testing CHFJPY vs CADJPY...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 1128.8517
+  Theta B: 1097.8103
+
+Testing CADJPY vs CHFJPY...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 1097.8103
+  Theta B: 1128.8517
+
+Testing GBPUSD vs AUDUSD...
+  Lagere massa: B
+  Hogere theta: A
+  Overall hypothese: False
+  Theta A: 1225.4956
+  Theta B: 1153.5986
+
+Testing NZDUSD vs EURUSD...
+  Lagere massa: A
+  Hogere theta: A
+  Overall hypothese: True
+  Theta A: 1180.5372
+  Theta B: 1129.0481
+
+Testing AUDNZD vs EURNZD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 1725.7785
+  Theta B: 1926.0835
+
+Testing NZDCAD vs USDCAD...
+  Lagere massa: A
+  Hogere theta: B
+  Overall hypothese: False
+  Theta A: 2722.0178
+  Theta B: 2726.0370
+
+======================================================================
+EINDRESULTAAT:
+======================================================================
+OVERALL ANALYSE:
+  Paren met ondersteuning: 1/8 (12.5%)
+  Overall p-waarde: 0.9961
+
+EVENT-BASED ANALYSE:
+  Ondersteunde events: 50651/161547 (31.4%)
+  Event-based p-waarde: 1.0000
+
+*** CONCLUSIES: ***
+OVERALL: ACCEPTEER H0 - VERWERP H1
+EVENTS: ACCEPTEER H0 - VERWERP H1
+======================================================================
+
+DETAIL OVERZICHT:
+H0 NZDJPY-AUDJPY: Events=19502, Success_rate=39.8%, Lower_mass=A, Higher_theta=B
+H0 AUDJPY-NZDJPY: Events=19502, Success_rate=39.8%, Lower_mass=B, Higher_theta=A
+H0 CHFJPY-CADJPY: Events=20732, Success_rate=36.5%, Lower_mass=B, Higher_theta=A
+H0 CADJPY-CHFJPY: Events=20732, Success_rate=36.5%, Lower_mass=A, Higher_theta=B
+H0 GBPUSD-AUDUSD: Events=20551, Success_rate=30.7%, Lower_mass=B, Higher_theta=A
+H1 NZDUSD-EURUSD: Events=19597, Success_rate=41.1%, Lower_mass=A, Higher_theta=A
+H0 AUDNZD-EURNZD: Events=20390, Success_rate=12.1%, Lower_mass=A, Higher_theta=B
+H0 NZDCAD-USDCAD: Events=20541, Success_rate=15.4%, Lower_mass=A, Higher_theta=B
