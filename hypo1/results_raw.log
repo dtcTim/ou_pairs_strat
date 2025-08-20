@@ -1,0 +1,498 @@
+2025-08-19 23:11:27,775 - INFO - NZDUSD -> EURUSD: aantal testen= 630, p=0.0011, lag=1, threshold=0.005
+2025-08-19 23:11:27,775 - INFO - EURUSD -> NZDUSD: aantal testen= 87, p=0.0040, lag=1, threshold=0.005
+2025-08-19 23:11:27,775 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:27,888 - INFO - NZDUSD -> EURUSD: aantal testen= 321, p=0.0117, lag=1, threshold=0.0075
+2025-08-19 23:11:27,888 - INFO - EURUSD -> NZDUSD: aantal testen= 35, p=0.0192, lag=1, threshold=0.0075
+2025-08-19 23:11:27,888 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:28,004 - INFO - NZDUSD -> EURUSD: aantal testen= 209, p=0.0313, lag=1, threshold=0.01
+2025-08-19 23:11:28,004 - INFO - EURUSD -> NZDUSD: aantal testen= 17, p=0.0299, lag=1, threshold=0.01
+2025-08-19 23:11:28,004 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:28,115 - INFO - EURUSD -> NZDUSD: aantal testen= 10, p=0.0100, lag=1, threshold=0.0125
+2025-08-19 23:11:28,115 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:31,091 - INFO - GBPUSD -> AUDUSD: aantal testen= 186, p=0.0204, lag=1, threshold=0.005
+2025-08-19 23:11:31,091 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:31,654 - INFO - AUDUSD -> GBPUSD: aantal testen= 527, p=0.0176, lag=2, threshold=0.005
+2025-08-19 23:11:31,654 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,208 - INFO - GBPUSD -> AUDUSD: aantal testen= 186, p=0.0002, lag=4, threshold=0.005
+2025-08-19 23:11:32,208 - INFO - AUDUSD -> GBPUSD: aantal testen= 527, p=0.0000, lag=4, threshold=0.005
+2025-08-19 23:11:32,208 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,319 - INFO - GBPUSD -> AUDUSD: aantal testen= 75, p=0.0183, lag=4, threshold=0.0075
+2025-08-19 23:11:32,319 - INFO - AUDUSD -> GBPUSD: aantal testen= 257, p=0.0008, lag=4, threshold=0.0075
+2025-08-19 23:11:32,319 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,435 - INFO - AUDUSD -> GBPUSD: aantal testen= 177, p=0.0048, lag=4, threshold=0.01
+2025-08-19 23:11:32,435 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,549 - INFO - AUDUSD -> GBPUSD: aantal testen= 130, p=0.0000, lag=4, threshold=0.0125
+2025-08-19 23:11:32,549 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,659 - INFO - AUDUSD -> GBPUSD: aantal testen= 67, p=0.0018, lag=4, threshold=0.02
+2025-08-19 23:11:32,659 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,771 - INFO - GBPUSD -> AUDUSD: aantal testen= 186, p=0.0027, lag=6, threshold=0.005
+2025-08-19 23:11:32,771 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:32,887 - INFO - GBPUSD -> AUDUSD: aantal testen= 75, p=0.0308, lag=6, threshold=0.0075
+2025-08-19 23:11:32,887 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:37,781 - INFO - AUDUSD -> NZDUSD: aantal testen= 503, p=0.0020, lag=1, threshold=0.005
+2025-08-19 23:11:37,781 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:37,892 - INFO - AUDUSD -> NZDUSD: aantal testen= 236, p=0.0256, lag=1, threshold=0.0075
+2025-08-19 23:11:37,892 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:38,005 - INFO - AUDUSD -> NZDUSD: aantal testen= 160, p=0.0441, lag=1, threshold=0.01
+2025-08-19 23:11:38,011 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:38,899 - INFO - AUDUSD -> NZDUSD: aantal testen= 503, p=0.0356, lag=4, threshold=0.005
+2025-08-19 23:11:38,899 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:40,557 - INFO - AUDUSD -> NZDUSD: aantal testen= 503, p=0.0097, lag=10, threshold=0.005
+2025-08-19 23:11:40,557 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:40,670 - INFO - NZDUSD -> AUDUSD: aantal testen= 330, p=0.0182, lag=10, threshold=0.0075
+2025-08-19 23:11:40,670 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:41,124 - INFO - USDJPY -> EURJPY: aantal testen= 158, p=0.0000, lag=1, threshold=0.005
+2025-08-19 23:11:41,124 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:41,238 - INFO - EURJPY -> USDJPY: aantal testen= 90, p=0.0369, lag=1, threshold=0.0075
+2025-08-19 23:11:41,239 - INFO - USDJPY -> EURJPY: aantal testen= 50, p=0.0041, lag=1, threshold=0.0075
+2025-08-19 23:11:41,239 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:41,355 - INFO - EURJPY -> USDJPY: aantal testen= 61, p=0.0477, lag=1, threshold=0.01
+2025-08-19 23:11:41,355 - INFO - USDJPY -> EURJPY: aantal testen= 31, p=0.0066, lag=1, threshold=0.01
+2025-08-19 23:11:41,355 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:41,471 - INFO - USDJPY -> EURJPY: aantal testen= 16, p=0.0249, lag=1, threshold=0.0125
+2025-08-19 23:11:41,471 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:43,990 - INFO - USDJPY -> EURJPY: aantal testen= 158, p=0.0100, lag=10, threshold=0.005
+2025-08-19 23:11:43,990 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:44,105 - INFO - USDJPY -> EURJPY: aantal testen= 50, p=0.0352, lag=10, threshold=0.0075
+2025-08-19 23:11:44,105 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:46,406 - INFO - USDJPY -> GBPJPY: aantal testen= 51, p=0.0235, lag=6, threshold=0.0075
+2025-08-19 23:11:46,406 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:46,642 - INFO - USDJPY -> GBPJPY: aantal testen= 15, p=0.0261, lag=6, threshold=0.0125
+2025-08-19 23:11:46,642 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:48,022 - INFO - USDJPY -> AUDJPY: aantal testen= 159, p=0.0005, lag=1, threshold=0.005
+2025-08-19 23:11:48,022 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:48,136 - INFO - AUDJPY -> USDJPY: aantal testen= 303, p=0.0413, lag=1, threshold=0.0075
+2025-08-19 23:11:48,136 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:48,252 - INFO - AUDJPY -> USDJPY: aantal testen= 170, p=0.0303, lag=1, threshold=0.01
+2025-08-19 23:11:48,253 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:51,483 - INFO - USDJPY -> CHFJPY: aantal testen= 160, p=0.0010, lag=1, threshold=0.005
+2025-08-19 23:11:51,483 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:51,605 - INFO - USDJPY -> CHFJPY: aantal testen= 49, p=0.0136, lag=1, threshold=0.0075
+2025-08-19 23:11:51,605 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:51,725 - INFO - USDJPY -> CHFJPY: aantal testen= 30, p=0.0115, lag=1, threshold=0.01
+2025-08-19 23:11:51,725 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:51,844 - INFO - USDJPY -> CHFJPY: aantal testen= 14, p=0.0138, lag=1, threshold=0.0125
+2025-08-19 23:11:51,844 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:53,379 - INFO - USDJPY -> CHFJPY: aantal testen= 49, p=0.0366, lag=6, threshold=0.0075
+2025-08-19 23:11:53,379 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:55,053 - INFO - USDJPY -> NZDJPY: aantal testen= 158, p=0.0387, lag=1, threshold=0.005
+2025-08-19 23:11:55,053 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:56,351 - INFO - USDJPY -> NZDJPY: aantal testen= 51, p=0.0264, lag=4, threshold=0.0075
+2025-08-19 23:11:56,351 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:56,467 - INFO - USDJPY -> NZDJPY: aantal testen= 32, p=0.0130, lag=4, threshold=0.01
+2025-08-19 23:11:56,467 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:56,584 - INFO - USDJPY -> NZDJPY: aantal testen= 17, p=0.0013, lag=4, threshold=0.0125
+2025-08-19 23:11:56,585 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:59,168 - INFO - EURJPY -> GBPJPY: aantal testen= 257, p=0.0000, lag=2, threshold=0.005
+2025-08-19 23:11:59,168 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:59,285 - INFO - EURJPY -> GBPJPY: aantal testen= 135, p=0.0000, lag=2, threshold=0.0075
+2025-08-19 23:11:59,285 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:59,403 - INFO - EURJPY -> GBPJPY: aantal testen= 99, p=0.0000, lag=2, threshold=0.01
+2025-08-19 23:11:59,403 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:59,522 - INFO - EURJPY -> GBPJPY: aantal testen= 59, p=0.0003, lag=2, threshold=0.0125
+2025-08-19 23:11:59,522 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:11:59,642 - INFO - EURJPY -> GBPJPY: aantal testen= 33, p=0.0051, lag=2, threshold=0.02
+2025-08-19 23:11:59,642 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:02,711 - INFO - USDCHF -> EURCHF: aantal testen= 520, p=0.0489, lag=2, threshold=0.005
+2025-08-19 23:12:02,711 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:03,277 - INFO - EURCHF -> USDCHF: aantal testen= 389, p=0.0037, lag=4, threshold=0.005
+2025-08-19 23:12:03,277 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:03,390 - INFO - EURCHF -> USDCHF: aantal testen= 200, p=0.0207, lag=4, threshold=0.0075
+2025-08-19 23:12:03,390 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:03,503 - INFO - EURCHF -> USDCHF: aantal testen= 105, p=0.0284, lag=4, threshold=0.01
+2025-08-19 23:12:03,503 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:04,302 - INFO - EURCHF -> USDCHF: aantal testen= 22, p=0.0176, lag=6, threshold=0.02
+2025-08-19 23:12:04,302 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:09,068 - INFO - EURCHF -> CHFJPY: aantal testen= 359, p=0.0222, lag=1, threshold=0.005
+2025-08-19 23:12:09,068 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:09,186 - INFO - EURCHF -> CHFJPY: aantal testen= 203, p=0.0452, lag=1, threshold=0.0075
+2025-08-19 23:12:09,186 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:09,308 - INFO - EURCHF -> CHFJPY: aantal testen= 110, p=0.0240, lag=1, threshold=0.01
+2025-08-19 23:12:09,309 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:10,842 - INFO - EURCHF -> CHFJPY: aantal testen= 359, p=0.0434, lag=6, threshold=0.005
+2025-08-19 23:12:10,842 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:11,432 - INFO - EURCHF -> CHFJPY: aantal testen= 359, p=0.0107, lag=8, threshold=0.005
+2025-08-19 23:12:11,432 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:11,549 - INFO - EURCHF -> CHFJPY: aantal testen= 203, p=0.0033, lag=8, threshold=0.0075
+2025-08-19 23:12:11,549 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:11,668 - INFO - EURCHF -> CHFJPY: aantal testen= 110, p=0.0246, lag=8, threshold=0.01
+2025-08-19 23:12:11,668 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:11,785 - INFO - CHFJPY -> EURCHF: aantal testen= 230, p=0.0454, lag=8, threshold=0.0125
+2025-08-19 23:12:11,786 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:11,905 - INFO - CHFJPY -> EURCHF: aantal testen= 126, p=0.0132, lag=8, threshold=0.02
+2025-08-19 23:12:11,905 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:12,500 - INFO - EURCHF -> CHFJPY: aantal testen= 24, p=0.0076, lag=10, threshold=0.02
+2025-08-19 23:12:12,500 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:12,622 - INFO - GBPCHF -> USDCHF: aantal testen= 200, p=0.0001, lag=1, threshold=0.005
+2025-08-19 23:12:12,622 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:12,734 - INFO - GBPCHF -> USDCHF: aantal testen= 99, p=0.0024, lag=1, threshold=0.0075
+2025-08-19 23:12:12,734 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:12,847 - INFO - GBPCHF -> USDCHF: aantal testen= 69, p=0.0044, lag=1, threshold=0.01
+2025-08-19 23:12:12,847 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:12,965 - INFO - GBPCHF -> USDCHF: aantal testen= 44, p=0.0160, lag=1, threshold=0.0125
+2025-08-19 23:12:12,965 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:13,194 - INFO - GBPCHF -> USDCHF: aantal testen= 200, p=0.0188, lag=2, threshold=0.005
+2025-08-19 23:12:13,194 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:15,235 - INFO - USDCHF -> GBPCHF: aantal testen= 98, p=0.0311, lag=8, threshold=0.0125
+2025-08-19 23:12:15,235 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:15,463 - INFO - USDCHF -> GBPCHF: aantal testen= 446, p=0.0094, lag=10, threshold=0.005
+2025-08-19 23:12:15,463 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:15,580 - INFO - USDCHF -> GBPCHF: aantal testen= 240, p=0.0080, lag=10, threshold=0.0075
+2025-08-19 23:12:15,580 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:15,695 - INFO - USDCHF -> GBPCHF: aantal testen= 151, p=0.0120, lag=10, threshold=0.01
+2025-08-19 23:12:15,695 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:15,806 - INFO - USDCHF -> GBPCHF: aantal testen= 98, p=0.0368, lag=10, threshold=0.0125
+2025-08-19 23:12:15,806 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:17,898 - INFO - AUDCAD -> USDCAD: aantal testen= 45, p=0.0448, lag=6, threshold=0.0075
+2025-08-19 23:12:17,898 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:19,402 - INFO - USDCAD -> AUDCAD: aantal testen= 28, p=0.0196, lag=10, threshold=0.02
+2025-08-19 23:12:19,402 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:19,521 - INFO - NZDCAD -> USDCAD: aantal testen= 351, p=0.0011, lag=1, threshold=0.005
+2025-08-19 23:12:19,521 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:19,634 - INFO - NZDCAD -> USDCAD: aantal testen= 161, p=0.0135, lag=1, threshold=0.0075
+2025-08-19 23:12:19,634 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:19,748 - INFO - NZDCAD -> USDCAD: aantal testen= 106, p=0.0283, lag=1, threshold=0.01
+2025-08-19 23:12:19,748 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:20,759 - INFO - USDCAD -> NZDCAD: aantal testen= 113, p=0.0437, lag=4, threshold=0.0075
+2025-08-19 23:12:20,760 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:20,981 - INFO - USDCAD -> NZDCAD: aantal testen= 54, p=0.0379, lag=4, threshold=0.0125
+2025-08-19 23:12:20,981 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:21,091 - INFO - USDCAD -> NZDCAD: aantal testen= 27, p=0.0048, lag=4, threshold=0.02
+2025-08-19 23:12:21,091 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:21,203 - INFO - NZDCAD -> USDCAD: aantal testen= 351, p=0.0020, lag=6, threshold=0.005
+2025-08-19 23:12:21,203 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:21,317 - INFO - NZDCAD -> USDCAD: aantal testen= 161, p=0.0022, lag=6, threshold=0.0075
+2025-08-19 23:12:21,317 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:21,430 - INFO - NZDCAD -> USDCAD: aantal testen= 106, p=0.0050, lag=6, threshold=0.01
+2025-08-19 23:12:21,430 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:21,547 - INFO - NZDCAD -> USDCAD: aantal testen= 78, p=0.0081, lag=6, threshold=0.0125
+2025-08-19 23:12:21,547 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:21,662 - INFO - NZDCAD -> USDCAD: aantal testen= 53, p=0.0251, lag=6, threshold=0.02
+2025-08-19 23:12:21,662 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:22,344 - INFO - NZDCAD -> USDCAD: aantal testen= 351, p=0.0011, lag=10, threshold=0.005
+2025-08-19 23:12:22,344 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:22,457 - INFO - NZDCAD -> USDCAD: aantal testen= 161, p=0.0031, lag=10, threshold=0.0075
+2025-08-19 23:12:22,457 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:22,571 - INFO - NZDCAD -> USDCAD: aantal testen= 106, p=0.0011, lag=10, threshold=0.01
+2025-08-19 23:12:22,571 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:22,687 - INFO - NZDCAD -> USDCAD: aantal testen= 78, p=0.0017, lag=10, threshold=0.0125
+2025-08-19 23:12:22,687 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:22,800 - INFO - NZDCAD -> USDCAD: aantal testen= 53, p=0.0042, lag=10, threshold=0.02
+2025-08-19 23:12:22,800 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:26,411 - INFO - EURCAD -> GBPCAD: aantal testen= 116, p=0.0380, lag=1, threshold=0.005
+2025-08-19 23:12:26,411 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:28,135 - INFO - EURCAD -> GBPCAD: aantal testen= 116, p=0.0310, lag=6, threshold=0.005
+2025-08-19 23:12:28,135 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:28,249 - INFO - EURCAD -> GBPCAD: aantal testen= 41, p=0.0175, lag=6, threshold=0.0075
+2025-08-19 23:12:28,249 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:28,818 - INFO - GBPCAD -> EURCAD: aantal testen= 395, p=0.0427, lag=8, threshold=0.0075
+2025-08-19 23:12:28,818 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:29,275 - INFO - GBPCAD -> EURCAD: aantal testen= 674, p=0.0136, lag=10, threshold=0.005
+2025-08-19 23:12:29,276 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:29,389 - INFO - GBPCAD -> EURCAD: aantal testen= 395, p=0.0227, lag=10, threshold=0.0075
+2025-08-19 23:12:29,389 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:29,503 - INFO - GBPCAD -> EURCAD: aantal testen= 249, p=0.0198, lag=10, threshold=0.01
+2025-08-19 23:12:29,503 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:29,616 - INFO - GBPCAD -> EURCAD: aantal testen= 163, p=0.0394, lag=10, threshold=0.0125
+2025-08-19 23:12:29,616 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:29,858 - INFO - EURNZD -> AUDNZD: aantal testen= 315, p=0.0402, lag=1, threshold=0.005
+2025-08-19 23:12:29,858 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:32,823 - INFO - AUDNZD -> EURNZD: aantal testen= 622, p=0.0011, lag=10, threshold=0.005
+2025-08-19 23:12:32,823 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:32,947 - INFO - AUDNZD -> EURNZD: aantal testen= 345, p=0.0141, lag=10, threshold=0.0075
+2025-08-19 23:12:32,948 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:33,180 - INFO - AUDNZD -> EURNZD: aantal testen= 154, p=0.0008, lag=10, threshold=0.0125
+2025-08-19 23:12:33,180 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:33,298 - INFO - AUDNZD -> EURNZD: aantal testen= 90, p=0.0040, lag=10, threshold=0.02
+2025-08-19 23:12:33,298 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:34,010 - INFO - AUDNZD -> GBPNZD: aantal testen= 655, p=0.0004, lag=2, threshold=0.005
+2025-08-19 23:12:34,010 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:34,127 - INFO - AUDNZD -> GBPNZD: aantal testen= 356, p=0.0052, lag=2, threshold=0.0075
+2025-08-19 23:12:34,127 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:34,245 - INFO - AUDNZD -> GBPNZD: aantal testen= 206, p=0.0182, lag=2, threshold=0.01
+2025-08-19 23:12:34,245 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:34,363 - INFO - AUDNZD -> GBPNZD: aantal testen= 152, p=0.0332, lag=2, threshold=0.0125
+2025-08-19 23:12:34,363 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:34,480 - INFO - AUDNZD -> GBPNZD: aantal testen= 89, p=0.0389, lag=2, threshold=0.02
+2025-08-19 23:12:34,480 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:35,780 - INFO - GBPNZD -> AUDNZD: aantal testen= 359, p=0.0362, lag=8, threshold=0.005
+2025-08-19 23:12:35,780 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:36,249 - INFO - GBPNZD -> AUDNZD: aantal testen= 11, p=0.0257, lag=8, threshold=0.02
+2025-08-19 23:12:36,249 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:36,370 - INFO - GBPNZD -> AUDNZD: aantal testen= 359, p=0.0238, lag=10, threshold=0.005
+2025-08-19 23:12:36,370 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:41,863 - INFO - EURGBP -> EURUSD: aantal testen= 103, p=0.0238, lag=4, threshold=0.0125
+2025-08-19 23:12:41,863 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:43,811 - INFO - CADCHF -> AUDCHF: aantal testen= 180, p=0.0411, lag=1, threshold=0.005
+2025-08-19 23:12:43,811 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:43,928 - INFO - CADCHF -> AUDCHF: aantal testen= 37, p=0.0331, lag=1, threshold=0.0075
+2025-08-19 23:12:43,928 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:44,842 - INFO - AUDCHF -> CADCHF: aantal testen= 56, p=0.0062, lag=2, threshold=0.02
+2025-08-19 23:12:44,842 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:45,526 - INFO - AUDCHF -> CADCHF: aantal testen= 489, p=0.0000, lag=6, threshold=0.005
+2025-08-19 23:12:45,526 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:45,641 - INFO - AUDCHF -> CADCHF: aantal testen= 215, p=0.0001, lag=6, threshold=0.0075
+2025-08-19 23:12:45,641 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:45,755 - INFO - AUDCHF -> CADCHF: aantal testen= 134, p=0.0009, lag=6, threshold=0.01
+2025-08-19 23:12:45,755 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:45,870 - INFO - AUDCHF -> CADCHF: aantal testen= 97, p=0.0053, lag=6, threshold=0.0125
+2025-08-19 23:12:45,870 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:45,987 - INFO - AUDCHF -> CADCHF: aantal testen= 56, p=0.0188, lag=6, threshold=0.02
+2025-08-19 23:12:45,987 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:46,332 - INFO - AUDCHF -> CADCHF: aantal testen= 134, p=0.0341, lag=8, threshold=0.01
+2025-08-19 23:12:46,332 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:46,448 - INFO - AUDCHF -> CADCHF: aantal testen= 97, p=0.0354, lag=8, threshold=0.0125
+2025-08-19 23:12:46,448 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:46,562 - INFO - AUDCHF -> CADCHF: aantal testen= 56, p=0.0401, lag=8, threshold=0.02
+2025-08-19 23:12:46,562 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:46,790 - INFO - CADCHF -> AUDCHF: aantal testen= 37, p=0.0015, lag=10, threshold=0.0075
+2025-08-19 23:12:46,790 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:46,905 - INFO - CADCHF -> AUDCHF: aantal testen= 15, p=0.0242, lag=10, threshold=0.01
+2025-08-19 23:12:46,905 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:47,247 - INFO - GBPCHF -> AUDCHF: aantal testen= 222, p=0.0016, lag=1, threshold=0.005
+2025-08-19 23:12:47,247 - INFO - AUDCHF -> GBPCHF: aantal testen= 415, p=0.0000, lag=1, threshold=0.005
+2025-08-19 23:12:47,247 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:47,364 - INFO - GBPCHF -> AUDCHF: aantal testen= 108, p=0.0157, lag=1, threshold=0.0075
+2025-08-19 23:12:47,364 - INFO - AUDCHF -> GBPCHF: aantal testen= 168, p=0.0001, lag=1, threshold=0.0075
+2025-08-19 23:12:47,364 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:47,484 - INFO - GBPCHF -> AUDCHF: aantal testen= 73, p=0.0436, lag=1, threshold=0.01
+2025-08-19 23:12:47,484 - INFO - AUDCHF -> GBPCHF: aantal testen= 95, p=0.0014, lag=1, threshold=0.01
+2025-08-19 23:12:47,484 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:47,603 - INFO - AUDCHF -> GBPCHF: aantal testen= 59, p=0.0136, lag=1, threshold=0.0125
+2025-08-19 23:12:47,603 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:47,837 - INFO - GBPCHF -> AUDCHF: aantal testen= 222, p=0.0006, lag=2, threshold=0.005
+2025-08-19 23:12:47,837 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:47,952 - INFO - GBPCHF -> AUDCHF: aantal testen= 108, p=0.0138, lag=2, threshold=0.0075
+2025-08-19 23:12:47,953 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:48,070 - INFO - GBPCHF -> AUDCHF: aantal testen= 73, p=0.0416, lag=2, threshold=0.01
+2025-08-19 23:12:48,070 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:48,651 - INFO - AUDCHF -> GBPCHF: aantal testen= 95, p=0.0447, lag=4, threshold=0.01
+2025-08-19 23:12:48,651 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:50,295 - INFO - AUDCHF -> GBPCHF: aantal testen= 168, p=0.0343, lag=10, threshold=0.0075
+2025-08-19 23:12:50,295 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:50,769 - INFO - CADJPY -> CHFJPY: aantal testen= 558, p=0.0001, lag=1, threshold=0.005
+2025-08-19 23:12:50,769 - INFO - CHFJPY -> CADJPY: aantal testen= 735, p=0.0000, lag=1, threshold=0.005
+2025-08-19 23:12:50,769 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:50,888 - INFO - CADJPY -> CHFJPY: aantal testen= 277, p=0.0077, lag=1, threshold=0.0075
+2025-08-19 23:12:50,888 - INFO - CHFJPY -> CADJPY: aantal testen= 431, p=0.0000, lag=1, threshold=0.0075
+2025-08-19 23:12:50,888 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:51,009 - INFO - CADJPY -> CHFJPY: aantal testen= 180, p=0.0362, lag=1, threshold=0.01
+2025-08-19 23:12:51,009 - INFO - CHFJPY -> CADJPY: aantal testen= 309, p=0.0000, lag=1, threshold=0.01
+2025-08-19 23:12:51,009 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:51,136 - INFO - CHFJPY -> CADJPY: aantal testen= 228, p=0.0000, lag=1, threshold=0.0125
+2025-08-19 23:12:51,136 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:51,257 - INFO - CHFJPY -> CADJPY: aantal testen= 124, p=0.0001, lag=1, threshold=0.02
+2025-08-19 23:12:51,257 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:51,980 - INFO - CHFJPY -> CADJPY: aantal testen= 735, p=0.0000, lag=4, threshold=0.005
+2025-08-19 23:12:51,980 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,100 - INFO - CHFJPY -> CADJPY: aantal testen= 431, p=0.0004, lag=4, threshold=0.0075
+2025-08-19 23:12:52,100 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,219 - INFO - CHFJPY -> CADJPY: aantal testen= 309, p=0.0020, lag=4, threshold=0.01
+2025-08-19 23:12:52,219 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,341 - INFO - CHFJPY -> CADJPY: aantal testen= 228, p=0.0071, lag=4, threshold=0.0125
+2025-08-19 23:12:52,341 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,463 - INFO - CHFJPY -> CADJPY: aantal testen= 124, p=0.0399, lag=4, threshold=0.02
+2025-08-19 23:12:52,463 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,586 - INFO - CADJPY -> CHFJPY: aantal testen= 558, p=0.0000, lag=6, threshold=0.005
+2025-08-19 23:12:52,586 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,707 - INFO - CADJPY -> CHFJPY: aantal testen= 277, p=0.0000, lag=6, threshold=0.0075
+2025-08-19 23:12:52,707 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,829 - INFO - CADJPY -> CHFJPY: aantal testen= 180, p=0.0000, lag=6, threshold=0.01
+2025-08-19 23:12:52,829 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:52,948 - INFO - CADJPY -> CHFJPY: aantal testen= 105, p=0.0006, lag=6, threshold=0.0125
+2025-08-19 23:12:52,948 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:53,069 - INFO - CADJPY -> CHFJPY: aantal testen= 52, p=0.0094, lag=6, threshold=0.02
+2025-08-19 23:12:53,069 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:53,189 - INFO - CADJPY -> CHFJPY: aantal testen= 558, p=0.0000, lag=8, threshold=0.005
+2025-08-19 23:12:53,189 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:53,313 - INFO - CADJPY -> CHFJPY: aantal testen= 277, p=0.0000, lag=8, threshold=0.0075
+2025-08-19 23:12:53,313 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:53,432 - INFO - CADJPY -> CHFJPY: aantal testen= 180, p=0.0000, lag=8, threshold=0.01
+2025-08-19 23:12:53,432 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:53,551 - INFO - CADJPY -> CHFJPY: aantal testen= 105, p=0.0002, lag=8, threshold=0.0125
+2025-08-19 23:12:53,551 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:53,675 - INFO - CADJPY -> CHFJPY: aantal testen= 52, p=0.0080, lag=8, threshold=0.02
+2025-08-19 23:12:53,675 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:54,396 - INFO - AUDJPY -> NZDJPY: aantal testen= 842, p=0.0010, lag=1, threshold=0.005
+2025-08-19 23:12:54,396 - INFO - NZDJPY -> AUDJPY: aantal testen= 1790, p=0.0000, lag=1, threshold=0.005
+2025-08-19 23:12:54,396 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:54,519 - INFO - AUDJPY -> NZDJPY: aantal testen= 382, p=0.0221, lag=1, threshold=0.0075
+2025-08-19 23:12:54,519 - INFO - NZDJPY -> AUDJPY: aantal testen= 838, p=0.0000, lag=1, threshold=0.0075
+2025-08-19 23:12:54,519 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:54,643 - INFO - NZDJPY -> AUDJPY: aantal testen= 391, p=0.0000, lag=1, threshold=0.01
+2025-08-19 23:12:54,643 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:54,763 - INFO - NZDJPY -> AUDJPY: aantal testen= 276, p=0.0000, lag=1, threshold=0.0125
+2025-08-19 23:12:54,764 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:54,883 - INFO - NZDJPY -> AUDJPY: aantal testen= 116, p=0.0002, lag=1, threshold=0.02
+2025-08-19 23:12:54,883 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:57,403 - INFO - NZDJPY -> AUDJPY: aantal testen= 1790, p=0.0000, lag=10, threshold=0.005
+2025-08-19 23:12:57,403 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:57,523 - INFO - NZDJPY -> AUDJPY: aantal testen= 838, p=0.0002, lag=10, threshold=0.0075
+2025-08-19 23:12:57,523 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:57,641 - INFO - NZDJPY -> AUDJPY: aantal testen= 391, p=0.0079, lag=10, threshold=0.01
+2025-08-19 23:12:57,641 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:57,766 - INFO - NZDJPY -> AUDJPY: aantal testen= 276, p=0.0197, lag=10, threshold=0.0125
+2025-08-19 23:12:57,766 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
+2025-08-19 23:12:57,887 - INFO - NZDJPY -> AUDJPY: aantal testen= 116, p=0.0054, lag=10, threshold=0.02
+2025-08-19 23:12:57,888 - INFO - 
+CONCLUSION: H1 ACCEPTED - there are significant relationships
